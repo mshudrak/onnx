@@ -237,7 +237,7 @@ class Args(NamedTuple):
 
 
 def main(args: Args) -> None:
-    print("We are executing this file")
+    print("We are executing this file.")
     base_dir = os.path.dirname(
         os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
     )
