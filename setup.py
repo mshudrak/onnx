@@ -1,6 +1,6 @@
 # Copyright (c) ONNX Project Contributors
 #
-# SPDX-License-Identifier: Apache-2.0
+# SPDX-License-Identifier: Apache-2.02
 
 # NOTE: Put all metadata in pyproject.toml.
 # Set the environment variable `ONNX_PREVIEW_BUILD=1` to build the dev preview release.
